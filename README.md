@@ -4,5 +4,5 @@
 > This is my first SwiftUI App. Not use in production.
 
 <p align="center">
-    <img src="images/app-preview.png" width="500">
+    <img src="images/app-preview.png" width="600">
 </p>
